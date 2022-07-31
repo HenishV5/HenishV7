@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Computer Vision and ROS<br>👯 I’m looking to collaborate on Robotics Projects<br>🤝 I’m looking for help with <br>🌱 I’m currently learning fundamentals of Robotics like perception, motion planning, etc.<br>💬 Ask me about <br>⚡ Fun fact
+🔭 I’m currently working on Computer Vision and ROS<br>👯 I’m looking to collaborate on Robotics Projects<br>🌱 I’m currently learning fundamentals of Robotics like perception, motion planning, etc.<br>
 
 
 # 💻 Tech Stack:
