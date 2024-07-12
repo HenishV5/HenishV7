@@ -1,5 +1,5 @@
 # Henish Anilbhai Viradiya
- 
+
 📧 **Email:** [viradiyahenish@gmail.com](mailto:viradiyahenish@gmail.com)  
 🔗 **LinkedIn:** [Henish Viradiya](https://www.linkedin.com/in/henish-viradiya/)  
 📍 **Location:** Buffalo, NY  
@@ -48,4 +48,12 @@
 [![RViz](https://img.shields.io/badge/RViz-8A2BE2?style=for-the-badge&logo=rviz&logoColor=white)](http://wiki.ros.org/rviz)
 [![EKF](https://img.shields.io/badge/EKF-800080?style=for-the-badge&logo=ekf&logoColor=white)](https://en.wikipedia.org/wiki/Extended_Kalman_filter)
 [![UKF](https://img.shields.io/badge/UKF-FFA500?style=for-the-badge&logo=ukf&logoColor=white)](https://en.wikipedia.org/wiki/Kalman_filter#Unscented_Kalman_filter)
-[![Siemens TIA Portal](https://img.shields.io/badge/Siemens%20TIA%20Portal-0078D4?style=for-the-badge&logo=siemens&logoColor=white)](https://new.siemens.com/global/en/products/automation/industry-so
+[![Siemens TIA Portal](https://img.shields.io/badge/Siemens%20TIA%20Portal-0078D4?style=for-the-badge&logo=siemens&logoColor=white)](https://new.siemens.com/global/en/products/automation/industry-software/automation-software/tia-portal.html)
+[![Rockwell Automation](https://img.shields.io/badge/Rockwell%20Automation-A8B9CC?style=for-the-badge&logo=rockwell&logoColor=white)](https://www.rockwellautomation.com/)
+[![Kalman Filter](https://img.shields.io/badge/Kalman%20Filter-000000?style=for-the-badge&logo=kalmanfilter&logoColor=white)](https://en.wikipedia.org/wiki/Kalman_filter)
+[![SensorFusion Library](https://img.shields.io/badge/SensorFusion%20Library-FF6F00?style=for-the-badge&logo=sensorfusion&logoColor=white)](https://en.wikipedia.org/wiki/Sensor_fusion)
+[![SolidWorks](https://img.shields.io/badge/SolidWorks-E03C31?style=for-the-badge&logo=solidworks&logoColor=white)](https://www.solidworks.com/)
+[![Fusion 360](https://img.shields.io/badge/Fusion%20360-007ACC?style=for-the-badge&logo=fusion360&logoColor=white)](https://www.autodesk.com/products/fusion-360/overview)
+
+## 📫 Contact
+Feel free to reach out via email or connect with me on [LinkedIn](https://www.linkedin.com/in/henish-viradiya/).
