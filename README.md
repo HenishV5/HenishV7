@@ -1,16 +1,83 @@
-# 💫 About Me:
-🔭 I’m currently working on Computer Vision and ROS<br>👯 I’m looking to collaborate on Robotics Projects<br>🌱 I’m currently learning fundamentals of Robotics like perception, motion planning, etc.<br>
+# Henish Anilbhai Viradiya
 
+📞 **Phone:** +1 (716)-939-6833  
+📧 **Email:** [viradiyahenish@gmail.com](mailto:viradiyahenish@gmail.com)  
+🔗 **LinkedIn:** [![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg)](https://www.linkedin.com/in/henish-viradiya/)  
+📍 **Location:** Buffalo, NY  
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=henishv7&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=henishv7&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=henishv7&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 💻 Skills
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### Programming Languages
+- 💻 C++
+- 🐍 Python
+- 🔌 Embedded C
+- 📊 MATLAB
 
----
-[![](https://visitcount.itsvg.in/api?id=henishv7&icon=0&color=0)](https://visitcount.itsvg.in)
+### Technical Expertise
+- 👁️ Computer Vision
+- 🧠 Deep Learning
+- 🖼️ Pattern Recognition
+- 🤖 ROS1 & ROS2 Framework
+- 🎮 Simulators
+- 🛤️ Motion Planning
+- 🧭 Path Planning
+- 📈 Real-time Monitoring
+- 🛰️ State Estimation
+- 🛠️ PLC Programming
+- 🔄 Sensor Fusion
+- 🏗️ 3D Designing
+
+## 🔧 Libraries and Tools
+
+### Computer Vision
+- ![OpenCV](https://opencv.org/wp-content/uploads/2020/07/cropped-OpenCV_logo-1.png)
+- ![YoLoV5](https://ultralytics.com/assets/logo-dark.png)
+
+### Deep Learning
+- ![TensorFlow](https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg)
+- ![PyTorch](https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg)
+
+### Pattern Recognition
+- ![Haar Cascade](https://upload.wikimedia.org/wikipedia/commons/4/4f/OpenCV_Logo_with_text_svg_version.svg)
+- ![Scikit-learn](https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg)
+
+### ROS1 & ROS2 Framework
+- ![ROS](https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg)
+- ![ROS2](https://raw.githubusercontent.com/ros2/ros2_documentation/master/source/_static/logo.png)
+
+### Simulators
+- ![Gazebo](https://gazebosim.org/assets/logo_white.svg)
+- ![Blender](https://upload.wikimedia.org/wikipedia/commons/0/0c/Blender_logo_no_text.svg)
+- ![Webots](https://cyberbotics.com/assets/images/webots.png)
+- ![CoppeliaSim](https://coppeliarobotics.com/img/sim_logo.png)
+
+### Motion Planning
+- ![MoveIt!](https://moveit.ros.org/assets/images/logo/MOVEIT_SVG_LOGO.svg)
+- ![OMPL](https://ompl.kavrakilab.org/img/ompl.png)
+
+### Path Planning
+- ![A*](https://upload.wikimedia.org/wikipedia/commons/5/51/Asterisk.svg)
+- ![Dijkstra](https://upload.wikimedia.org/wikipedia/commons/5/57/Dijkstra%27s_algorithm_example.svg)
+
+### Real-time Monitoring
+- ![ROS Topics](https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg)
+- ![RViz](https://raw.githubusercontent.com/ros-visualization/rviz/master/doc/rviz_icon.png)
+
+### State Estimation
+- ![EKF](https://upload.wikimedia.org/wikipedia/commons/7/7a/Kalman_filter_diagram.svg)
+- ![UKF](https://upload.wikimedia.org/wikipedia/commons/7/7a/Kalman_filter_diagram.svg)
+
+### PLC Programming
+- ![Siemens TIA Portal](https://upload.wikimedia.org/wikipedia/commons/8/80/Siemens-logo.svg)
+- ![Rockwell Automation](https://upload.wikimedia.org/wikipedia/commons/f/fd/Rockwell_Automation_logo.svg)
+
+### Sensor Fusion
+- ![Kalman Filter](https://upload.wikimedia.org/wikipedia/commons/7/7a/Kalman_filter_diagram.svg)
+- ![SensorFusion Library](https://upload.wikimedia.org/wikipedia/commons/4/4f/OpenCV_Logo_with_text_svg_version.svg)
+
+### 3D Designing
+- ![SolidWorks](https://upload.wikimedia.org/wikipedia/commons/2/2e/SolidWorks_Logo.svg)
+- ![Fusion 360](https://upload.wikimedia.org/wikipedia/commons/e/e7/Autodesk_fusion360_logo_icon.svg)
+
+## 📫 Contact
+Feel free to reach out via email or connect with me on [LinkedIn](https://www.linkedin.com/in/henish-viradiya/).
