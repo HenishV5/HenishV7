@@ -1,5 +1,6 @@
 # Henish Anilbhai Viradiya
 
+📞 **Phone:** +1 (716)-939-6833  
 📧 **Email:** [viradiyahenish@gmail.com](mailto:viradiyahenish@gmail.com)  
 🔗 **LinkedIn:** ![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg) [Henish Viradiya](https://www.linkedin.com/in/henish-viradiya/)  
 📍 **Location:** Buffalo, NY  
@@ -45,8 +46,8 @@
 - <img src="https://raw.githubusercontent.com/ros2/ros2_documentation/master/source/_static/logo.png" alt="ROS2" width="40" height="40"/>
 
 ### Simulators
-- <img src="https://gazebosim.org/assets/logo_white.svg" alt="Gazebo" width="40" height="40"/>
-- <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Blender_logo_no_text.svg" alt="Blender" width="40" height="40"/>
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Gazebo_logo.svg/512px-Gazebo_logo.svg.png" alt="Gazebo" width="40" height="40"/>
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/512px-Blender_logo_no_text.svg.png" alt="Blender" width="40" height="40"/>
 - <img src="https://cyberbotics.com/assets/images/webots.png" alt="Webots" width="40" height="40"/>
 - <img src="https://coppeliarobotics.com/img/sim_logo.png" alt="CoppeliaSim" width="40" height="40"/>
 
@@ -67,16 +68,16 @@
 - <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Kalman_filter_diagram.svg" alt="UKF" width="40" height="40"/>
 
 ### PLC Programming
-- <img src="https://upload.wikimedia.org/wikipedia/commons/8/80/Siemens-logo.svg" alt="Siemens TIA Portal" width="40" height="40"/>
-- <img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Rockwell_Automation_logo.svg" alt="Rockwell Automation" width="40" height="40"/>
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Siemens-logo.svg/512px-Siemens-logo.svg.png" alt="Siemens TIA Portal" width="40" height="40"/>
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Rockwell_Automation_logo.svg/512px-Rockwell_Automation_logo.svg.png" alt="Rockwell Automation" width="40" height="40"/>
 
 ### Sensor Fusion
 - <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Kalman_filter_diagram.svg" alt="Kalman Filter" width="40" height="40"/>
 - <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/OpenCV_Logo_with_text_svg_version.svg" alt="SensorFusion Library" width="40" height="40"/>
 
 ### 3D Designing
-- <img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/SolidWorks_Logo.svg" alt="SolidWorks" width="40" height="40"/>
-- <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Autodesk_fusion360_logo_icon.svg" alt="Fusion 360" width="40" height="40"/>
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/SolidWorks_Logo.svg/512px-SolidWorks_Logo.svg.png" alt="SolidWorks" width="40" height="40"/>
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Autodesk_fusion360_logo_icon.svg/512px-Autodesk_fusion360_logo_icon.svg.png" alt="Fusion 360" width="40" height="40"/>
 
 ## 📫 Contact
 Feel free to reach out via email or connect with me on [LinkedIn](https://www.linkedin.com/in/henish-viradiya/).
