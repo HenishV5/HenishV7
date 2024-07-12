@@ -2,7 +2,7 @@
 
 📞 **Phone:** +1 (716)-939-6833  
 📧 **Email:** [viradiyahenish@gmail.com](mailto:viradiyahenish@gmail.com)  
-🔗 **LinkedIn:** ![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg) [Henish Viradiya](https://www.linkedin.com/in/henish-viradiya/)  
+🔗 **LinkedIn:** [Henish Viradiya](https://www.linkedin.com/in/henish-viradiya/)  
 📍 **Location:** Buffalo, NY  
 
 ## 💻 Skills
