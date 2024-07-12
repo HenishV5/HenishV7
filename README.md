@@ -1,7 +1,7 @@
-## About Me💫
+# About Me💫
 ---
 
-# Henish Anilbhai Viradiya
+## Henish Anilbhai Viradiya
   
 📧 **Email:** [viradiyahenish@gmail.com](mailto:viradiyahenish@gmail.com)  
 🔗 **LinkedIn:** [Henish Viradiya](https://www.linkedin.com/in/henish-viradiya/)  
