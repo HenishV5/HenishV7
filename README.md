@@ -10,7 +10,7 @@
 
 
 ## 💻 Skills
----
+--
 
 ### Programming Languages
 [![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://en.cppreference.com/w/)
@@ -34,7 +34,7 @@
 [![3D Designing](https://img.shields.io/badge/3D%20Designing-FFD700?style=for-the-badge&logo=3dmodeling&logoColor=white)](https://en.wikipedia.org/wiki/3D_modeling)
 
 ## 🔧 Libraries and Tools
----
+--
 
 ### Computer Vision and Deep Learning
 [![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org/)
