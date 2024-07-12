@@ -40,7 +40,6 @@
 [![YoLoV5](https://img.shields.io/badge/YoLoV5-00FFFF?style=for-the-badge&logo=yolo&logoColor=white)](https://github.com/ultralytics/yolov5)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
-[![Haar Cascade](https://img.shields.io/badge/Haar%20Cascade-008000?style=for-the-badge&logo=haarcascade&logoColor=white)](https://en.wikipedia.org/wiki/Haar-like_feature)
 [![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
 
 ### Frameworks and Simulators
