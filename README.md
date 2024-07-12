@@ -44,9 +44,10 @@
 [![Haar Cascade](https://img.shields.io/badge/Haar%20Cascade-008000?style=for-the-badge&logo=haarcascade&logoColor=white)](https://en.wikipedia.org/wiki/Haar-like_feature)
 [![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
 
-### ROS and Simulators
+### Frameworks and Simulators
 [![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)](https://www.ros.org/)
 [![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)](https://docs.ros.org/en/foxy/index.html)
+[![RViz](https://img.shields.io/badge/RViz-8A2BE2?style=for-the-badge&logo=rviz&logoColor=white)](http://wiki.ros.org/rviz)
 [![Gazebo](https://img.shields.io/badge/Gazebo-000000?style=for-the-badge&logo=gazebo&logoColor=white)](https://gazebosim.org/)
 [![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)](https://www.blender.org/)
 [![Webots](https://img.shields.io/badge/Webots-00A4EF?style=for-the-badge&logo=webots&logoColor=white)](https://cyberbotics.com/)
@@ -59,8 +60,6 @@
 [![Dijkstra](https://img.shields.io/badge/Dijkstra-0000FF?style=for-the-badge&logo=dijkstra&logoColor=white)](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm)
 
 ### Real-time Monitoring and State Estimation
-[![ROS Topics](https://img.shields.io/badge/ROS%20Topics-22314E?style=for-the-badge&logo=ros&logoColor=white)](https://en.wikipedia.org/wiki/Robot_Operating_System)
-[![RViz](https://img.shields.io/badge/RViz-8A2BE2?style=for-the-badge&logo=rviz&logoColor=white)](http://wiki.ros.org/rviz)
 [![EKF](https://img.shields.io/badge/EKF-800080?style=for-the-badge&logo=ekf&logoColor=white)](https://en.wikipedia.org/wiki/Extended_Kalman_filter)
 [![UKF](https://img.shields.io/badge/UKF-FFA500?style=for-the-badge&logo=ukf&logoColor=white)](https://en.wikipedia.org/wiki/Kalman_filter#Unscented_Kalman_filter)
 
@@ -69,6 +68,8 @@
 [![Rockwell Automation](https://img.shields.io/badge/Rockwell%20Automation-A8B9CC?style=for-the-badge&logo=rockwell&logoColor=white)](https://www.rockwellautomation.com/)
 [![Kalman Filter](https://img.shields.io/badge/Kalman%20Filter-000000?style=for-the-badge&logo=kalmanfilter&logoColor=white)](https://en.wikipedia.org/wiki/Kalman_filter)
 [![SensorFusion Library](https://img.shields.io/badge/SensorFusion%20Library-FF6F00?style=for-the-badge&logo=sensorfusion&logoColor=white)](https://en.wikipedia.org/wiki/Sensor_fusion)
+
+### CAD Designing Platforms
 [![SolidWorks](https://img.shields.io/badge/SolidWorks-E03C31?style=for-the-badge&logo=solidworks&logoColor=white)](https://www.solidworks.com/)
 [![Fusion 360](https://img.shields.io/badge/Fusion%20360-007ACC?style=for-the-badge&logo=fusion360&logoColor=white)](https://www.autodesk.com/products/fusion-360/overview)
 
